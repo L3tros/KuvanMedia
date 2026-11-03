@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://kuvanmedia.de/sitemap.xml
